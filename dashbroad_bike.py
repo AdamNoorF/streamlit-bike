@@ -6,7 +6,7 @@ import streamlit as st
 
 
 # Load dataset
-sepeda_day = pd.read_csv("dashbroad\day_sepeda_harian.csv")
+sepeda_day = pd.read_csv("/workspaces/streamlit-bike/dashbroad/day_sepeda_harian.csv")
 
 st.title('Bike Sharing Analysis Data-EDA')
 
