@@ -3,7 +3,7 @@
 python -m venv dashboard
 dashboard\Scripts\activate
 pip install -r requirements.txt
-# jika file requirements.txt belum ada maka
+###### jika file requirements.txt belum ada maka
 pip install numpy pandas matplotlib seaborn streamlit
 
 ### Penggunaan jupyter
