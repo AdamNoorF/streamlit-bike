@@ -1,11 +1,12 @@
 ### Setup environment
 
 python -m venv dashboard
-dashboard\Scripts\activate ##windows
-pip install -r requirements.txt ##jika file requirements.txt belum ada maka
+dashboard\Scripts\activate
+pip install -r requirements.txt
+# jika file requirements.txt belum ada maka
 pip install numpy pandas matplotlib seaborn streamlit
 
-### Penggunaan
+### Penggunaan jupyter
 
 jupyter notebook notebook.ipynb
 
